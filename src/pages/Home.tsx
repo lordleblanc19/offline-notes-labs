@@ -121,7 +121,7 @@ export default function Home() {
 
         <div className="author"> 
           <p>Project By: <i>Oga Favour Onahi</i> </p>
-          <p>Matric No: <i>2024/100564CP</i> </p>
+          <p>Matric No: <i>2024/1/100564CP</i> </p>
 
         </div>
 
